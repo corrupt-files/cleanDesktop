@@ -8,4 +8,3 @@ for file in files_on_desktop:
         shutil.move(file_dir, '/Users/raphaelco/Desktop/balls')
         print(f"Moved {file} into balls")
 print("Moving files completed")
-/Users/raphaelco/PycharmProjects/cleanDesktop
